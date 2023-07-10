@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Md Azizul Hakim Antor</h1>
+<h1 align="center">Hi 👋</h1>
+<h1 align="center">I'm Md Azizul Hakim Antor</h1>
+
 <h3 align="center">A passionate Web developer and software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=antor1155&label=Profile%20views&color=0e75b6&style=flat" alt="antor1155" /> </p>
