@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋</h1>
-<h1 align="center">I'm Md Azizul Hakim Antor</h1>
+<h1 align="center">Hi 👋, I'm Md Azizul Hakim Antor </h1>
 
 <h3 align="center">A passionate Web developer and software Engineer</h3>
 
